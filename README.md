@@ -18,3 +18,4 @@ and dont be weird </p>
 <br>
 <br>
 <p align="center"> <img src="https://files.catbox.moe/zk0az4.png"> </p>
+<p align="center"> <h6>github coded by @stephenstotch</h6> </p>
