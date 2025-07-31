@@ -14,7 +14,7 @@
 and dont be weird </p>
 <br>
 <br>
-<p align="center"> (sp is a wip) </p>
+<p align="center"> https://hamballscott.straw.page/ </p>
 <br>
 <br>
 <p align="center"> <img src="https://files.catbox.moe/zk0az4.png"> </p>
